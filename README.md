@@ -300,8 +300,6 @@ data/integrated/external_validation/
 **问：需要什么数据格式？**  
 答：TSV 文件，行为样本，列为特征。脚本会自动处理转置。
 
-**问：训练/验证集如何划分？**  
-答：默认 75:25 划分，使用 `seed=42` 保证可复现。划分分析保存在 `data_split_analysis.png`。
 
 ## 📚 引用
 
@@ -330,4 +328,4 @@ data/integrated/external_validation/
 
 ---
 
-**注意**：本框架基于 DeepProg 方法学开发。DeepProg 原始项目信息请参考 `Legacy/` 目录下的相关文档。详细使用说明请参阅 `instruction.txt`。
+
