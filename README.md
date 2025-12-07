@@ -318,7 +318,7 @@ data/integrated/external_validation/
 
 ## 📄 许可证
 
-本项目基于 DeepProg 方法学开发。原始项目信息请参考 `Legacy/` 目录下的相关文档。
+本项目基于 DeepProg 方法学开发。原始项目链接：https://github.com/lanagarmire/DeepProg
 
 ## 🤝 贡献
 
