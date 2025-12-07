@@ -1,0 +1,5 @@
+metric	value
+train_pvalue_full	0.2212883815972343
+train_cindex_full	0.6024158981685933
+val_pvalue	0.16822276110313064
+val_cindex	0.6696070569366479
